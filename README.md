@@ -101,8 +101,13 @@ Conclusion
 The XGBoost model, after hyperparameter tuning, is the best choice for loan default prediction based on its accuracy and ability to classify defaulters correctly. This model can now be deployed for real-time prediction of loan default risks, assisting in more informed loan approval decisions for the NBFC.
 
 Files Included
+
 eda.ipynb - Exploratory Data Analysis
+
 model.py - Model implementation (XGBoost and LightGBM)
+
 model_selection.ipynb - Model selection and evaluation
+
 xgboost_model.pkl - Trained XGBoost model
+
 lightgbm_model.pkl - Trained LightGBM model

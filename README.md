@@ -1,5 +1,7 @@
 **Loan Default Prediction - Classification Model**
+
 **Project Overview**
+
 This project aims to develop a classification model to predict loan default behavior for a Non-Banking Financial Company (NBFC). The primary goal is to identify potential defaulters and non-defaulters from historical loan data, thereby improving the loan approval process and risk assessment. The dataset contains loan application details from the past two years, and the goal is to predict loan status (defaulter or non-defaulter) based on various customer attributes.
 
 **Problem Statement:**
